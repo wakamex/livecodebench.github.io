@@ -63,7 +63,7 @@ ReactDOM.render(
   <React.StrictMode>
     <section className="hero">
       <div className="hero-body">
-        <div className="container is-max-desktop">
+        {/* <div className="container is-max-desktop"> */}
           <div className="columns is-centered">
             <div className="column has-text-centered">
               <h1 className="title is-1 publication-title">
@@ -122,7 +122,7 @@ ReactDOM.render(
 
 
               <section className="section">
-                <div className="container is-max-desktop">
+                {/* <div className="container is-max-desktop"> */}
                   <div className="columns is-centered has-text-centered">
                     <div className="column is-four-fifths">
                       <h2 className="title is-3">Submitting Custom Models</h2>
@@ -136,12 +136,12 @@ ReactDOM.render(
                       </div>
                     </div>
                   </div>
-                </div>
+                {/* </div> */}
               </section>
 
 
 
-            </div>
+            {/* </div> */}
           </div>
         </div>
       </div>
