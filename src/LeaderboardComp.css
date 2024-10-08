@@ -44,6 +44,7 @@
       display: none;
   }
 
+  .is-max-desktop {max-width: 1300px;}
 
   @media only screen and (max-width: 768px) {
       agGridMaxWidth {
