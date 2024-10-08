@@ -44,6 +44,12 @@
       display: none;
   }
 
+  .hero-body {
+    max-width: 1320px; /* You can adjust this value as needed */
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
 
   @media only screen and (max-width: 768px) {
       agGridMaxWidth {
